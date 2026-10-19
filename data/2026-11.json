@@ -1,0 +1,154 @@
+{
+  "dias": [
+    {
+      "fecha": "2026-11-01",
+      "asignaciones": [
+        {
+          "rol": "Predica",
+          "nombre": "Pr. Roberto Mastraccio",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "Montse Pradas",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "Oscar Martell",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "Oscar Martell",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Rafael Aguilar",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-08",
+      "asignaciones": [
+        {
+          "rol": "Predica",
+          "nombre": "Pr. Juan Carlos",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "Pr. Franci Tripodi",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "Lucas Alberto",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "Lucas Alberto",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-11",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Gina",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-14",
+      "asignaciones": [
+        {
+          "rol": "Ofrendas",
+          "nombre": "BABY SHOWER DE IRENE",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-15",
+      "asignaciones": [
+        {
+          "rol": "Predica",
+          "nombre": "Pedro Álvarez",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "Matrimonio Lopez",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "Octavio Aldave",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "Octavio Aldave",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-18",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Eva Sotelo",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-22",
+      "asignaciones": [
+        {
+          "rol": "Predica",
+          "nombre": "Lucas Alberto",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "Matrimonio Llancabure",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "Ricardo Guemill",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "Oscar Martell",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-25",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Gina",
+          "estado": "Pendiente"
+        }
+      ]
+    }
+  ]
+}
