@@ -1,0 +1,254 @@
+{
+  "dias": [
+    {
+      "fecha": "2026-10-02",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Ivana Alvarez",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Mariela Vilca",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-04",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Lucas Llancabure",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Pr. Franci Tripodi",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "Lucas y Javier",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "Octavio Aldave",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "Octavio Aldave",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-07",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Gina",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Sergio Antimonik",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-09",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Cristian Lopez",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Mariela Vilca",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-11",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Ivana Alvarez",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Lucas Alberto",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "Tu Refugio",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "Oscar Martell",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "Oscar Martell",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Eva Sotelo",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Juan Bravo",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-16",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Heidi Moreno",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-18",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Rafael Aguilar",
+          "estado": "Informado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Oscar Martell",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "Matrimonio Llancabure",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "Lucas Alberto",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "Lucas Alberto",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Rafael Aguilar",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Martín Sanchez",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Oscar Martell",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Heidi Moreno",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-25",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Montse Pradas",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Pr. Juan Carlos",
+          "estado": "Informado"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "Matrimonio Lopez",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "Octavio Aldave",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "Lucas Alberto",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Gina",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Alberto Sotelo",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-30",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "Montse Pradas",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "Oscar Martell",
+          "estado": "Confirmado"
+        }
+      ]
+    }
+  ]
+}
