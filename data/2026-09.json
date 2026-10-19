@@ -1,0 +1,264 @@
+{
+  "dias": [
+    {
+      "fecha": "2026-09-02",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "GINA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "CARLOS PASQUET",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-04",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "MARCOS",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "JUAN CARLOS",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-06",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "LUCAS LLANCA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "MONTSE",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "JUAN Y CINTHIA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "LUCAS ALBERTO",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "LUCAS ALBERTO",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-09",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "RAFA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "OMAR BRACAMONTE",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-11",
+      "asignaciones": [
+        {
+          "rol": "Santa Cena",
+          "nombre": "CULTO ESPECIAL MUJERES EN MITRE",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-12",
+      "asignaciones": [
+        {
+          "rol": "Santa Cena",
+          "nombre": "CULTO ESPECIAL MUJERES EN MITRE",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-13",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "RAFA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "EDITH (PUERTO MONTT)",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "IVI Y VICTOR",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "OSCAR",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "OSCAR",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-16",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "EVA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "RAMÓN AQUINO",
+          "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-18",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "HEIDI",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "LUCAS ALBERTO",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-20",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "MONTSE",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "JUAN CARLOS",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "MARI Y RICARDO",
+          "estado": "Pendiente"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "OCTAVIO",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "OCTAVIO",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-23",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "GINA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "MIGUEL CARACCI",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-25",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "RAFA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "LUCAS ALBERTO",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-27",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "NURIA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "AXEL",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Santa Cena",
+          "nombre": "RAFA Y MARIE",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Ofrendas",
+          "nombre": "OSCAR",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Anuncios",
+          "nombre": "OSCAR",
+          "estado": "Confirmado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-30",
+      "asignaciones": [
+        {
+          "rol": "Dirige",
+          "nombre": "GINA",
+          "estado": "Confirmado"
+        },
+        {
+          "rol": "Predica",
+          "nombre": "ALBERTO SOTELO",
+          "estado": "Confirmado"
+        }
+      ]
+    }
+  ]
+}
