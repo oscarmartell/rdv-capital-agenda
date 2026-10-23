@@ -36,6 +36,16 @@
       ]
     },
     {
+      "fecha": "2026-11-07",
+      "asignaciones": [
+        {
+          "rol": "Actividad",
+          "nombre": "Reunión de Matrimonios",
+          "estado": "Programado"
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-08",
       "asignaciones": [
         {
@@ -147,6 +157,26 @@
           "rol": "Dirige",
           "nombre": "Gina",
           "estado": "Pendiente"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-28",
+      "asignaciones": [
+        {
+          "rol": "Actividad",
+          "nombre": "Retiro Anual RDV",
+          "estado": "Programado"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-29",
+      "asignaciones": [
+        {
+          "rol": "Actividad",
+          "nombre": "Retiro Anual RDV",
+          "estado": "Programado"
         }
       ]
     }
